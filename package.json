@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-17-promises",
+  "version": "1.0.0",
+  "description": "A demonstration of a newly promisified API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "readline",
+    "promise"
+  ],
+  "author": {
+    "name": "Aleksander Jess",
+    "email": "aleksander.jess@itmagination.com"
+  },
+  "license": "MIT"
+}
